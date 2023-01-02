@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 void get_binary(int i){
     int times=0;
